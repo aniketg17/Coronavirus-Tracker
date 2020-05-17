@@ -4,6 +4,15 @@ public class LocationsStats {
     private String state;
     private String country;
     private int latestTotalCases;
+    private int deltaPrevDay;
+
+    public int getDeltaPrevDay() {
+        return deltaPrevDay;
+    }
+
+    public void setDeltaPrevDay(int deltaPrevDay) {
+        this.deltaPrevDay = deltaPrevDay;
+    }
 
     public String getState() {
         return state;
