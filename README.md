@@ -3,7 +3,7 @@ This is a web application written in Java using Spring Boot to view the number o
 
 ## Steps to run the project
 1. Run the project using IntelliJ or some other platform
-2. Open 'http://localhost:8080' on your device's browser.
+2. Open 'http://localhost:8080' on your device's browser
 
 ## Demo
 Below are a couple pictures of the application.
